@@ -1,0 +1,11 @@
+env:
+
+app:
+  name: go-cmd-boilerplate
+
+log:
+  json: true
+  level: debug
+
+pushgateway:
+  url: localhost:9091
